@@ -8,23 +8,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=verblud1&theme=solarized_dark)
 
 # 💡 Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,visualstudio,vscode,docker,figma,blender,windows,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,py)]()
 
+# 🛠️ Things that help me getting my code done
+[![My Skills](https://skillicons.dev/icons?i=github,obsidian,visualstudio,vscode,figma,bash,powershell,ubuntu,windows,linux)]()
 
+# ⚡Goals
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,docker,dotnet,git,lua,androidstudio,ae.ps,pr,java,mysql,wordpress)]()
 
-
-<!--
-**verblud1/verblud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
