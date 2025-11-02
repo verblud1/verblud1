@@ -18,5 +18,5 @@
 
 
 # i on
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/huggingface.svg/yellow" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/huggingface.svg/pink" />
 
