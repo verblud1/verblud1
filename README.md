@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,py)]()
 
 # 🛠️ Things that help me getting my code done
-[![My Skills](https://skillicons.dev/icons?i=github,obsidian,visualstudio,vscode,figma,bash,powershell,ubuntu,windows,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=gimp,github,obsidian,visualstudio,vscode,figma,bash,powershell,stackoverflow,ubuntu,windows,linux)]()
 
 # ⚡Goals
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,docker,dotnet,git,lua,androidstudio,ae.ps,pr,java,mysql,wordpress)]()
