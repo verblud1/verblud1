@@ -8,7 +8,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=verblud1&theme=solarized_dark)
 
 # 💡 Languages & Frameworks I code in
-[![My Skills]((https://skillicons.dev/icons?i=unity, c#)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
