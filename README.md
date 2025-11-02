@@ -17,6 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,arduino,docker,dotnet,git,lua,androidstudio,ae.ps,pr,java,mysql,wordpress)]()
 
 
-i on
-<img width="64" height="64" alt="huggingface" color="yellow" src="https://github.com/user-attachments/assets/43773575-70c6-41d9-83ae-b1929f034b63" />
+# i on
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/huggingface.svg" />
 
