@@ -18,7 +18,5 @@
 
 
 i on
-habr
-
-<img width="64" height="64" alt="huggingface" src="https://github.com/user-attachments/assets/43773575-70c6-41d9-83ae-b1929f034b63" /><img width="64" height="64" alt="huggingface" src="https://github.com/user-attachments/assets/43773575-70c6-41d9-83ae-b1929f034b63" />
+<img width="64" height="64" alt="huggingface" color="yellow" src="https://github.com/user-attachments/assets/43773575-70c6-41d9-83ae-b1929f034b63" />
 
