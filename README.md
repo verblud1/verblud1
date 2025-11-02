@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,obsidian,visualstudio,vscode,figma,bash,powershell,stackoverflow,ubuntu,windows,linux)]()
 
 # ⚡Goals
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,arduino,docker,dotnet,git,lua,androidstudio,ae.ps,pr,java,mysql,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,arduino,docker,dotnet,git,lua,androidstudio,ae,ps,pr,java,mysql,wordpress)]()
 
 
 <!--
