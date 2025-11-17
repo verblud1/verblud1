@@ -13,13 +13,13 @@
 
 
 # 💡 Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,py)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,arduino)]()
 
 # 🛠️ Things that help me getting my code done
 [![My Skills](https://skillicons.dev/icons?i=figma,obsidian,github,docker,visualstudio,vscode,bash,powershell,stackoverflow,ubuntu,windows,linux)]()
 
 # ⚡Goals
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,arduino,git,lua,dotnet,wordpress,androidstudio,java,ae,ps,pr,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,cpp,blender,git,lua,dotnet,wordpress,androidstudio,java,ae,ps,pr,mysql)]()
 
 <!--
 gimp,capcut,homeassistant,obs,
