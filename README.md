@@ -13,7 +13,7 @@
 
 
 # 💡 Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,arduino)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,py,arduino,cpp)]()
 
 # 🛠️ Things that help me getting my code done
 [![My Skills](https://skillicons.dev/icons?i=figma,obsidian,github,docker,visualstudio,vscode,bash,powershell,stackoverflow,ubuntu,windows,linux)]()
